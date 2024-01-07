@@ -8,6 +8,20 @@ Supervised Learning:
 	-Input/Output
 	-Labelled data
 	-Classification & Regression
+ 
+Algorithms used in Supervised Learning:
+
+
+Regression & Classification Algorithms:
+ ========================================
+		-Linear Regression => Regression
+		-Logistic Regression => Classification
+		
+		-Decision Tree =>Regression & Classification
+		-Naive Bayes =>Regression & Classification
+		-Support Vector Machine =>Classification
+		-Random Forest =>Regression & Classification
+		-Ensemble => Regression & Classification
 
 
  Unsupervised Learning:
@@ -17,6 +31,15 @@ Supervised Learning:
 	-Input
 	-Unlabelled data
 	-Clustering
+ 
+
+Algorithms used in Unsupervised Learning:
+ ==========================================
+	-Clustering algorithms
+		-Kmean
+		-K-medoid
+		-Hierarchical
+		-DBScan
  
 
 Reinforncement Learning:
