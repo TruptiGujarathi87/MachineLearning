@@ -10,10 +10,10 @@ Supervised Learning:
 	-Classification & Regression
  
 Algorithms used in Supervised Learning:
-
+ ========================================
 
 Regression & Classification Algorithms:
- ========================================
+
 		-Linear Regression => Regression
 		-Logistic Regression => Classification
 		
